@@ -1,7 +1,7 @@
 ## Salveee! Meu nome é Josivaldo Oliveira e estou cursando Análise e Desenvolvimento de Sistemas!
 
 
-💻- Atualmente atuando em Back-end
+-💻- Atualmente atuando em Back-end
 📚- Estudando Java
 📩- contate-me no email: jm.siilva@hotmail.com
 😎- Pronouns: ele/dele
